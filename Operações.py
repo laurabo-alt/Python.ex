@@ -1,5 +1,8 @@
-numero1 = int(input("Digite o primeiro numero: "))
+# Exercicio 2 - Operações Básicas
+#Laura Becker
+#objetivo: fazer uma soma, uma subtrção e uma multiplicação
 
+numero1 = int(input("Digite o primeiro numero: "))
 numero2 = int(input("Digite o segundo numero: "))
 # pede que o usuario digite dois numero
 
@@ -15,4 +18,5 @@ multiplicacao = numero1 * numero2
 print("soma:", soma)
 print("subtracao", subtracao)
 print("multiplicacao", multiplicacao)
+#mostra o resultado ao usuario
 
